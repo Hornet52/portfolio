@@ -1,0 +1,42 @@
+body {
+	font-family: 'Francois One', sans-serif;
+	font-weight: 400;
+	color: white;
+	background-color: #4a525a;
+}
+
+hr {
+	border-top: 5px solid white;
+}
+
+a {
+	color: #ddd;
+}
+
+a:hover {
+	color: yellow;
+}
+
+footer {
+	font-size: 0.8em;
+	margin-top: 2em;
+	color: white;
+}
+
+.logo-image {
+	font-size: 5em;
+}
+
+.project-row {
+	margin-bottom: 1em;
+}
+
+@media screen and (max-width: 768px) {
+	.logo-image {
+		text-align: center;
+	}
+	
+	.page-title {
+		text-align: center;
+	}
+}
