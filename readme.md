@@ -1,5 +1,4 @@
-<h1>Kyle Hurtley's Portfolio</h1>
+#Kyle Hurtley's Portfolio#
 
-<p>This is a portfolio site created for the Udacity Front-end Web Development Nano Degree.</p>
+This is a portfolio site project created for the Udacity Front-end Web Development Nano Degree.
 
-*kyle@kylehurtley.com*
